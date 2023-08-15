@@ -29,4 +29,4 @@ Move the floating window by selecting the floating window using cursor and move 
 
 Contributions to the Picture-in-Picture project are welcome! If you have ideas for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request.
 
-Note: The Picture-in-Picture feature relies on the Picture-in-Picture API, which may not be supported by all browsers. It is recommended to use a compatible browser (e.g., Chrome, Firefox) for the best experience.
+**Note:** The Picture-in-Picture feature relies on the Picture-in-Picture API, which may not be supported by all browsers. It is recommended to use a compatible browser (e.g., Chrome, Firefox) for the best experience.

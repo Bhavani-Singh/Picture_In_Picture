@@ -19,7 +19,7 @@ To use Picture-in-Picture, follow these steps:
 Navigate to the project directory and open index.html in a web browser that supports the Picture-in-Picture API (e.g., Chrome, Firefox).
 
 3. **Usage:**
-Click the application in the prompt the select START button to activate the floating window mode.
+Click the application in the prompt then select START button to activate the floating window mode.
 
 4. **Resize and Move:**
 In the Picture-in-Picture mode, you can resize the floating window by dragging its edges.
